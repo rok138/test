@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 2
 add dev branch
 modify dev branch3
+d
